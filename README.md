@@ -1,6 +1,6 @@
 # twitch-top-clippers
-- Retrieves and sorts the best channel's clippers of each week
-	 > Clips are retrieved after **the last Friday at 11:42PM**.
+Retrieves and sorts the best channel's clippers of each week.
+Clips are retrieved after **the last Friday at 11:42PM**.
 
 ### How to use
 Create a config.json file containing:
