@@ -12,4 +12,6 @@ Create a config.json file containing:
 }
 ```
 
+Then change the broadcaster id at lign 40 with your own
+
 Then run `npm i && node index.js`
